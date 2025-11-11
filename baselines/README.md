@@ -1,0 +1,9 @@
+# Baselines
+CQL
+IQL
+SASRec
+BERT4Rec
+S3Rec
+DT4Rec
+DT4IER
+CDT4Rec
